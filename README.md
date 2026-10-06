@@ -1,4 +1,4 @@
-# micro-bank-cpp 🏦
+# micro-bank-cpp
 
 A pocket-sized console banking application built with C++. This project serves as a practical sandbox for mastering core Object-Oriented Programming (OOP) concepts, pointer management, and modern CMake build configurations.
 
